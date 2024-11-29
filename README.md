@@ -42,6 +42,9 @@ The repository contains the following files:
 ---
 
 ## Project Workflow
+### 0. **Data Exploring and Preprocessing**
+- Perform an initial analysis and cleaning of the datasets to understand their structure and features.
+
 ### 1. **Unsupervised Learning for Customer Segmentation**
 - **Dimensionality Reduction with PCA**: Reduced the dataset to key principal components that explain the variance in the data.
 - **Clustering with KMeans**: Grouped customers and general population into segments to identify the characteristics of the core customer base.
