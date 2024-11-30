@@ -57,7 +57,7 @@ The repository contains the following files:
 - **Model Training and Evaluation**:
   - Used Logistic Regression, Random Forest Classifier, and Gradient Boosting Classifier for classification.
   - Evaluated models using **ROC-AUC** considering the imbalanced nature of the data.
-- **Result**: Achieved a ROC-AUC of 0.752 with initial models. Improvements through tuning are ongoing.
+- **Result**: Achieved a ROC-AUC of 0.752 with initial models. The ROC-AUC of finetuned model is 0.760
 
 ---
 
@@ -68,7 +68,7 @@ The repository contains the following files:
 
 2. **Marketing Campaign Response Prediction**:
    - The most predictive models achieved:
-     - **ROC-AUC**: 0.752 (indicating reasonable but improvable separation of responders and non-responders).
+     - **ROC-AUC**: 0.760 (indicating reasonable but improvable separation of responders and non-responders).
    - Further improvements (feature engineering, hyperparameter tuning) are needed for better predictions.
 
 ---
